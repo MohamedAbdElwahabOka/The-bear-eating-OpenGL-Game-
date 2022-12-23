@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1671827028 source:d:\aast\semester 5\computer graphics\the bear eating\main.c
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<Windows.h>
+	<mmsystem.h>
+	<MMSYSTEM.h>
+
+1671827028 source:d:\aast\semester 5\computer graphics\mohamed abelwahab ( 20108761)\source code\the bear eating\main.c
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<Windows.h>
+	<mmsystem.h>
+	<MMSYSTEM.h>
+
