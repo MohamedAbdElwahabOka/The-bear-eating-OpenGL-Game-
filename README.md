@@ -18,7 +18,14 @@
 <a href="https://www.youtube.com/c/كوكتيل-kokteal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="كوكتيل-kokteal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed_abdelwahab_oka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_abdelwahab_oka" height="30" width="40" /></a>
 </p>
-
-
-
-
+<h2>It's the start screen of the game </h2>
+<img  src="/img/Start.png">
+<h3>This is part of the game while playing </h3>
+<img width="600"src="/img/All.png">
+<h3>Types of birds in the game must eat yellow only </h3>
+<img width="500"src="/img/Red and Y .png">
+<h3>The Score and livels </h3>
+<img align="right" src="/img/Score.png">
+<h3>The Game Over</h3>
+<img src="/img/Game over.png">
+<h1 align="center">I hope you have fun playing 😁😊</h1>
